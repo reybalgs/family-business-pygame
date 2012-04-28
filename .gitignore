@@ -1,0 +1,10 @@
+# Gitignore
+#
+# vim .swp files
+*.swp
+
+# .xcf files, only I should be able to see them
+*.xcf
+
+# Python .pyc files
+*.pyc
